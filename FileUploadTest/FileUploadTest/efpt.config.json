@@ -1,0 +1,49 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "FirstDBContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Model",
+   "OutputContextPath": "Data",
+   "OutputPath": "Model",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "FileUploadTest",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[tblfileupload]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[USP_Image_Get]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[USP_Image_Insert]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "arpitatoz\\sqlexpress.FirstDB.dbo",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
